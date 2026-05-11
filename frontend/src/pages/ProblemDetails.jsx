@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { useUser } from '@clerk/clerk-react'
 import Badge from '../components/Badge'
+import ComplexityCard from '../components/ComplexityCard'
 import Loading from '../components/Loading'
 import { getBackendUserPayload } from '../hooks/useBackendUser'
 import { api } from '../services/api'
@@ -804,6 +805,8 @@ function SubmissionPanel({ submission }) {
       <p className="text-xs text-slate-500">
         Runtime: {submission.runtime ?? 0}s &nbsp;|&nbsp; Memory: {submission.memory ?? 0} KB
       </p>
+
+      <ComplexityCard analysis={submission.complexityAnalysis} />
     </div>
   )
 }

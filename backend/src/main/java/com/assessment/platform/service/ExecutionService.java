@@ -1,5 +1,6 @@
 package com.assessment.platform.service;
 
+import com.assessment.platform.dto.ComplexityAnalysis;
 import com.assessment.platform.dto.ExecutionRequest;
 import com.assessment.platform.dto.ExecutionResponse;
 import com.assessment.platform.dto.Judge0SubmissionRequest;
@@ -28,6 +29,7 @@ public class ExecutionService {
     private final SubmissionRepository submissionRepository;
     private final UserService userService;
     private final CodeWrapperService codeWrapperService;
+    private final GroqClient groqClient;
 
     public ExecutionService(
             Judge0Client judge0Client,
@@ -35,7 +37,8 @@ public class ExecutionService {
             TestCaseRepository testCaseRepository,
             SubmissionRepository submissionRepository,
             UserService userService,
-            CodeWrapperService codeWrapperService
+            CodeWrapperService codeWrapperService,
+            GroqClient groqClient
     ) {
         this.judge0Client = judge0Client;
         this.problemService = problemService;
@@ -43,6 +46,7 @@ public class ExecutionService {
         this.submissionRepository = submissionRepository;
         this.userService = userService;
         this.codeWrapperService = codeWrapperService;
+        this.groqClient = groqClient;
     }
 
     public ExecutionResponse run(ExecutionRequest request) {
@@ -92,6 +96,11 @@ public class ExecutionService {
             }
         }
 
+        ComplexityAnalysis complexity = null;
+        if (finalStatus == SubmissionStatus.ACCEPTED) {
+            complexity = groqClient.analyzeComplexity(request.code(), request.language());
+        }
+
         Submission submission = new Submission();
         submission.setUser(user);
         submission.setProblem(problem);
@@ -103,7 +112,7 @@ public class ExecutionService {
         SubmissionResponse saved = toSubmissionResponse(submissionRepository.save(submission));
         return new SubmissionResponse(saved.id(), saved.problemId(), saved.problemTitle(),
                 saved.language(), saved.code(), saved.status(), saved.runtime(), saved.memory(),
-                saved.submittedAt(), errorOutput);
+                saved.submittedAt(), errorOutput, complexity);
     }
 
     public SubmissionResponse toSubmissionResponse(Submission submission) {
@@ -117,6 +126,7 @@ public class ExecutionService {
                 submission.getRuntime(),
                 submission.getMemory(),
                 submission.getSubmittedAt(),
+                null,
                 null
         );
     }

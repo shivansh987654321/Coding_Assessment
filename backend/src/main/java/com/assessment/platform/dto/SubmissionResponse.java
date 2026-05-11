@@ -13,6 +13,7 @@ public record SubmissionResponse(
         Double runtime,
         Integer memory,
         Instant submittedAt,
-        String errorOutput
+        String errorOutput,
+        ComplexityAnalysis complexityAnalysis
 ) {
 }
