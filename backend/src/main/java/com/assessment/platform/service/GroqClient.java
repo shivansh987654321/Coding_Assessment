@@ -77,7 +77,7 @@ public class GroqClient {
 
         return objectMapper.writeValueAsString(
                 objectMapper.createObjectNode()
-                        .put("model", "llama3-8b-8192")
+                        .put("model", "llama3-70b-8192")
                         .put("temperature", 0.1)
                         .put("max_tokens", 150)
                         .set("messages", objectMapper.createArrayNode()
