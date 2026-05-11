@@ -1,22 +1,20 @@
 package com.assessment.platform.entity;
 
-import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;
-import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
-import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
 import jakarta.persistence.Lob;
 import jakarta.persistence.PrePersist;
 import jakarta.persistence.Table;
 import java.time.Instant;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Entity
 @Table(name = "problems")
@@ -46,10 +44,10 @@ public class Problem {
     @Column(columnDefinition = "LONGTEXT")
     private String starterCode;
 
-    @ElementCollection(fetch = FetchType.EAGER)
-    @CollectionTable(name = "problem_tags", joinColumns = @JoinColumn(name = "problem_id"))
-    @Column(name = "tag")
-    private List<String> tags = new ArrayList<>();
+    // Stored as a comma-separated string in a single column on `problems`
+    // to avoid a separate @ElementCollection join table. Public API is still List<String>.
+    @Column(name = "tags", length = 1024)
+    private String tagsCsv = "";
 
     @Column(name = "created_at", nullable = false, updatable = false)
     private Instant createdAt;
@@ -112,11 +110,19 @@ public class Problem {
     }
 
     public List<String> getTags() {
-        return tags;
+        if (tagsCsv == null || tagsCsv.isBlank()) {
+            return new ArrayList<>();
+        }
+        return Arrays.stream(tagsCsv.split(","))
+                .map(String::trim)
+                .filter(s -> !s.isEmpty())
+                .collect(Collectors.toList());
     }
 
     public void setTags(List<String> tags) {
-        this.tags = tags == null ? new ArrayList<>() : new ArrayList<>(tags);
+        this.tagsCsv = (tags == null || tags.isEmpty())
+                ? ""
+                : tags.stream().filter(t -> t != null && !t.isBlank()).collect(Collectors.joining(","));
     }
 
     public Instant getCreatedAt() {
