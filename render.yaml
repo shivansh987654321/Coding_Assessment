@@ -3,8 +3,28 @@ services:
     name: coding-assessment-backend
     runtime: java
     rootDir: backend
+    plan: free
     buildCommand: mvn clean package -DskipTests
-    startCommand: java -jar target/platform-0.0.1-SNAPSHOT.jar
+    startCommand: java -Dserver.port=$PORT -jar target/platform-0.0.1-SNAPSHOT.jar
+    healthCheckPath: /actuator/health
+    autoDeploy: true
     envVars:
       - key: JAVA_VERSION
         value: 21
+      # ---- Database (Aiven MySQL) ----
+      # Set these in the Render dashboard. DB_URL must be a full JDBC URL
+      # with sslMode=REQUIRED. Example:
+      # jdbc:mysql://mysql-xxxx.aivencloud.com:23456/defaultdb?sslMode=REQUIRED&serverTimezone=UTC
+      - key: DB_URL
+        sync: false
+      - key: DB_USERNAME
+        sync: false
+      - key: DB_PASSWORD
+        sync: false
+      # ---- CORS ----
+      # Comma-separated list of allowed origins, e.g. https://your-app.vercel.app
+      - key: CORS_ALLOWED_ORIGINS
+        sync: false
+      # ---- Judge0 (free public endpoint) ----
+      - key: JUDGE0_BASE_URL
+        value: https://ce.judge0.com
