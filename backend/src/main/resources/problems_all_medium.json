@@ -1,0 +1,650 @@
+[
+  {
+    "topic": "Arrays",
+    "title": "Set Matrix Zeroes",
+    "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Set Matrix Zeroes\nSource: https://leetcode.com/problems/set-matrix-zeroes/\n\nDescription: Provide an implementation for 'Set Matrix Zeroes'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Next Permutation",
+    "url": "https://leetcode.com/problems/next-permutation/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Next Permutation\nSource: https://leetcode.com/problems/next-permutation/\n\nDescription: Provide an implementation for 'Next Permutation'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Maximum Subarray (Kadane's Algorithm)",
+    "url": "https://leetcode.com/problems/maximum-subarray/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Maximum Subarray (Kadane's Algorithm)\nSource: https://leetcode.com/problems/maximum-subarray/\n\nDescription: Provide an implementation for 'Maximum Subarray (Kadane's Algorithm)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Sort Colors (Dutch National Flag)",
+    "url": "https://leetcode.com/problems/sort-colors/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Sort Colors (Dutch National Flag)\nSource: https://leetcode.com/problems/sort-colors/\n\nDescription: Provide an implementation for 'Sort Colors (Dutch National Flag)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Rotate Matrix/Image by 90 degrees",
+    "url": "https://leetcode.com/problems/rotate-image/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Rotate Matrix/Image by 90 degrees\nSource: https://leetcode.com/problems/rotate-image/\n\nDescription: Provide an implementation for 'Rotate Matrix/Image by 90 degrees'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Merge Overlapping Intervals",
+    "url": "https://leetcode.com/problems/merge-intervals/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Merge Overlapping Intervals\nSource: https://leetcode.com/problems/merge-intervals/\n\nDescription: Provide an implementation for 'Merge Overlapping Intervals'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Merge Two Sorted Arrays Without Extra Space",
+    "url": "https://leetcode.com/problems/merge-sorted-array/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Merge Two Sorted Arrays Without Extra Space\nSource: https://leetcode.com/problems/merge-sorted-array/\n\nDescription: Provide an implementation for 'Merge Two Sorted Arrays Without Extra Space'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Find the Duplicate Number",
+    "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Find the Duplicate Number\nSource: https://leetcode.com/problems/find-the-duplicate-number/\n\nDescription: Provide an implementation for 'Find the Duplicate Number'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Repeat and Missing Number",
+    "url": "https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Repeat and Missing Number\nSource: https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/\n\nDescription: Provide an implementation for 'Repeat and Missing Number'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Search in a 2D Matrix",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Search in a 2D Matrix\nSource: https://leetcode.com/problems/search-a-2d-matrix/\n\nDescription: Provide an implementation for 'Search in a 2D Matrix'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Pow(x, n)",
+    "url": "https://leetcode.com/problems/powx-n/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Pow(x, n)\nSource: https://leetcode.com/problems/powx-n/\n\nDescription: Provide an implementation for 'Pow(x, n)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays/Hashing",
+    "title": "Majority Element (>n/3 times)",
+    "url": "https://leetcode.com/problems/majority-element-ii/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Majority Element (>n/3 times)\nSource: https://leetcode.com/problems/majority-element-ii/\n\nDescription: Provide an implementation for 'Majority Element (>n/3 times)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Grid Unique Paths",
+    "url": "https://leetcode.com/problems/unique-paths/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Grid Unique Paths\nSource: https://leetcode.com/problems/unique-paths/\n\nDescription: Provide an implementation for 'Grid Unique Paths'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays/Hashing",
+    "title": "4 Sum Problem",
+    "url": "https://leetcode.com/problems/4sum/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: 4 Sum Problem\nSource: https://leetcode.com/problems/4sum/\n\nDescription: Provide an implementation for '4 Sum Problem'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays/Hashing",
+    "title": "Longest Consecutive Sequence",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Longest Consecutive Sequence\nSource: https://leetcode.com/problems/longest-consecutive-sequence/\n\nDescription: Provide an implementation for 'Longest Consecutive Sequence'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays/Hashing",
+    "title": "Largest Subarray with 0 Sum",
+    "url": "https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Largest Subarray with 0 Sum\nSource: https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/\n\nDescription: Provide an implementation for 'Largest Subarray with 0 Sum'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays/Hashing",
+    "title": "Count Number of Subarrays with Given XOR",
+    "url": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Count Number of Subarrays with Given XOR\nSource: https://www.interviewbit.com/problems/subarray-with-given-xor/\n\nDescription: Provide an implementation for 'Count Number of Subarrays with Given XOR'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays/Hashing",
+    "title": "Longest Substring Without Repeat",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Longest Substring Without Repeat\nSource: https://leetcode.com/problems/longest-substring-without-repeating-characters/\n\nDescription: Provide an implementation for 'Longest Substring Without Repeat'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Linked List",
+    "title": "Remove N-th Node From End of List",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Remove N-th Node From End of List\nSource: https://leetcode.com/problems/remove-nth-node-from-end-of-list/\n\nDescription: Provide an implementation for 'Remove N-th Node From End of List'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Linked List",
+    "title": "Add Two Numbers (Linked List)",
+    "url": "https://leetcode.com/problems/add-two-numbers/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Add Two Numbers (Linked List)\nSource: https://leetcode.com/problems/add-two-numbers/\n\nDescription: Provide an implementation for 'Add Two Numbers (Linked List)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Linked List",
+    "title": "Delete Node Without Head Pointer",
+    "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Delete Node Without Head Pointer\nSource: https://leetcode.com/problems/delete-node-in-a-linked-list/\n\nDescription: Provide an implementation for 'Delete Node Without Head Pointer'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Linked List",
+    "title": "Find Starting Point of Cycle in Linked List",
+    "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Find Starting Point of Cycle in Linked List\nSource: https://leetcode.com/problems/linked-list-cycle-ii/\n\nDescription: Provide an implementation for 'Find Starting Point of Cycle in Linked List'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Two Pointers",
+    "title": "Rotate a LinkedList",
+    "url": "https://leetcode.com/problems/rotate-list/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Rotate a LinkedList\nSource: https://leetcode.com/problems/rotate-list/\n\nDescription: Provide an implementation for 'Rotate a LinkedList'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Two Pointers",
+    "title": "3 Sum",
+    "url": "https://leetcode.com/problems/3sum/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: 3 Sum\nSource: https://leetcode.com/problems/3sum/\n\nDescription: Provide an implementation for '3 Sum'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays/Hashing",
+    "title": "Count Number of Subarrays with Given XOR (duplicate) - kept",
+    "url": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Count Number of Subarrays with Given XOR (duplicate) - kept\nSource: https://www.interviewbit.com/problems/subarray-with-given-xor/\n\nDescription: Provide an implementation for 'Count Number of Subarrays with Given XOR (duplicate) - kept'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Greedy",
+    "title": "Minimum Number of Platforms Required",
+    "url": "https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Minimum Number of Platforms Required\nSource: https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/\n\nDescription: Provide an implementation for 'Minimum Number of Platforms Required'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Greedy",
+    "title": "Job Sequencing Problem",
+    "url": "https://www.geeksforgeeks.org/job-sequencing-problem/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Job Sequencing Problem\nSource: https://www.geeksforgeeks.org/job-sequencing-problem/\n\nDescription: Provide an implementation for 'Job Sequencing Problem'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Greedy",
+    "title": "Fractional Knapsack Problem",
+    "url": "https://www.geeksforgeeks.org/fractional-knapsack-problem/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Fractional Knapsack Problem\nSource: https://www.geeksforgeeks.org/fractional-knapsack-problem/\n\nDescription: Provide an implementation for 'Fractional Knapsack Problem'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Recursion",
+    "title": "Subset-II (Print Unique Subsets)",
+    "url": "https://leetcode.com/problems/subsets-ii/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Subset-II (Print Unique Subsets)\nSource: https://leetcode.com/problems/subsets-ii/\n\nDescription: Provide an implementation for 'Subset-II (Print Unique Subsets)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Recursion",
+    "title": "Combination Sum-1",
+    "url": "https://leetcode.com/problems/combination-sum/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Combination Sum-1\nSource: https://leetcode.com/problems/combination-sum/\n\nDescription: Provide an implementation for 'Combination Sum-1'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Recursion",
+    "title": "Combination Sum-2",
+    "url": "https://leetcode.com/problems/combination-sum-ii/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Combination Sum-2\nSource: https://leetcode.com/problems/combination-sum-ii/\n\nDescription: Provide an implementation for 'Combination Sum-2'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Recursion",
+    "title": "Palindrome Partitioning",
+    "url": "https://leetcode.com/problems/palindrome-partitioning/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Palindrome Partitioning\nSource: https://leetcode.com/problems/palindrome-partitioning/\n\nDescription: Provide an implementation for 'Palindrome Partitioning'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Backtracking",
+    "title": "Print all Permutations of a String/Array",
+    "url": "https://leetcode.com/problems/permutations/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Print all Permutations of a String/Array\nSource: https://leetcode.com/problems/permutations/\n\nDescription: Provide an implementation for 'Print all Permutations of a String/Array'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Backtracking",
+    "title": "M Coloring Problem",
+    "url": "https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: M Coloring Problem\nSource: https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/\n\nDescription: Provide an implementation for 'M Coloring Problem'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Backtracking",
+    "title": "Rat in a Maze",
+    "url": "https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Rat in a Maze\nSource: https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/\n\nDescription: Provide an implementation for 'Rat in a Maze'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Search",
+    "title": "Nth Root of an Integer",
+    "url": "https://www.geeksforgeeks.org/n-th-root-number/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Nth Root of an Integer\nSource: https://www.geeksforgeeks.org/n-th-root-number/\n\nDescription: Provide an implementation for 'Nth Root of an Integer'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Search",
+    "title": "Find the Element That Appears Once in Sorted Array",
+    "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Find the Element That Appears Once in Sorted Array\nSource: https://leetcode.com/problems/single-element-in-a-sorted-array/\n\nDescription: Provide an implementation for 'Find the Element That Appears Once in Sorted Array'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Search",
+    "title": "Search in Rotated Sorted Array",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Search in Rotated Sorted Array\nSource: https://leetcode.com/problems/search-in-rotated-sorted-array/\n\nDescription: Provide an implementation for 'Search in Rotated Sorted Array'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Search",
+    "title": "Kth Largest Element",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "difficulty": "EASY",
+    "statement": "Problem: Kth Largest Element\nSource: https://leetcode.com/problems/kth-largest-element-in-an-array/\n\nDescription: Provide an implementation for 'Kth Largest Element'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Heap",
+    "title": "Maximum Sum Combination",
+    "url": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Maximum Sum Combination\nSource: https://www.interviewbit.com/problems/maximum-sum-combinations/\n\nDescription: Provide an implementation for 'Maximum Sum Combination'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Heap",
+    "title": "Merge K Sorted Arrays",
+    "url": "https://www.geeksforgeeks.org/merge-k-sorted-arrays/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Merge K Sorted Arrays\nSource: https://www.geeksforgeeks.org/merge-k-sorted-arrays/\n\nDescription: Provide an implementation for 'Merge K Sorted Arrays'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Heap",
+    "title": "K Most Frequent Elements",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: K Most Frequent Elements\nSource: https://leetcode.com/problems/top-k-frequent-elements/\n\nDescription: Provide an implementation for 'K Most Frequent Elements'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Stack/Queue",
+    "title": "Implement Queue using Stack (O(1) amortized)",
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Implement Queue using Stack (O(1) amortized)\nSource: https://leetcode.com/problems/implement-queue-using-stacks/\n\nDescription: Provide an implementation for 'Implement Queue using Stack (O(1) amortized)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Stack/Queue",
+    "title": "Sort a Stack",
+    "url": "https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Sort a Stack\nSource: https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/\n\nDescription: Provide an implementation for 'Sort a Stack'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Stack/Queue",
+    "title": "Stock Span Problem",
+    "url": "https://leetcode.com/problems/online-stock-span/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Stock Span Problem\nSource: https://leetcode.com/problems/online-stock-span/\n\nDescription: Provide an implementation for 'Stock Span Problem'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Stack/Queue",
+    "title": "The Celebrity Problem",
+    "url": "https://www.geeksforgeeks.org/the-celebrity-problem/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: The Celebrity Problem\nSource: https://www.geeksforgeeks.org/the-celebrity-problem/\n\nDescription: Provide an implementation for 'The Celebrity Problem'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "String",
+    "title": "Implement ATOI/STRSTR",
+    "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Implement ATOI/STRSTR\nSource: https://leetcode.com/problems/string-to-integer-atoi/\n\nDescription: Provide an implementation for 'Implement ATOI/STRSTR'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "String",
+    "title": "Compare Version Numbers",
+    "url": "https://leetcode.com/problems/compare-version-numbers/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Compare Version Numbers\nSource: https://leetcode.com/problems/compare-version-numbers/\n\nDescription: Provide an implementation for 'Compare Version Numbers'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "String",
+    "title": "Count and Say",
+    "url": "https://leetcode.com/problems/count-and-say/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Count and Say\nSource: https://leetcode.com/problems/count-and-say/\n\nDescription: Provide an implementation for 'Count and Say'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree",
+    "title": "Bottom View of Binary Tree",
+    "url": "https://www.geeksforgeeks.org/bottom-view-binary-tree/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Bottom View of Binary Tree\nSource: https://www.geeksforgeeks.org/bottom-view-binary-tree/\n\nDescription: Provide an implementation for 'Bottom View of Binary Tree'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree",
+    "title": "Top View of Binary Tree",
+    "url": "https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Top View of Binary Tree\nSource: https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/\n\nDescription: Provide an implementation for 'Top View of Binary Tree'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree",
+    "title": "Root to Node Path in Binary Tree",
+    "url": "https://www.interviewbit.com/problems/path-to-given-node/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Root to Node Path in Binary Tree\nSource: https://www.interviewbit.com/problems/path-to-given-node/\n\nDescription: Provide an implementation for 'Root to Node Path in Binary Tree'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree",
+    "title": "Max Width of Binary Tree",
+    "url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Max Width of Binary Tree\nSource: https://leetcode.com/problems/maximum-width-of-binary-tree/\n\nDescription: Provide an implementation for 'Max Width of Binary Tree'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree",
+    "title": "Construct Binary Tree from Inorder and Preorder",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Construct Binary Tree from Inorder and Preorder\nSource: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/\n\nDescription: Provide an implementation for 'Construct Binary Tree from Inorder and Preorder'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree",
+    "title": "Construct Binary Tree from Inorder and Postorder",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Construct Binary Tree from Inorder and Postorder\nSource: https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/\n\nDescription: Provide an implementation for 'Construct Binary Tree from Inorder and Postorder'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree",
+    "title": "Zig-Zag Traversal of Binary Tree",
+    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Zig-Zag Traversal of Binary Tree\nSource: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/\n\nDescription: Provide an implementation for 'Zig-Zag Traversal of Binary Tree'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree",
+    "title": "Boundary Traversal of Binary Tree",
+    "url": "https://www.geeksforgeeks.org/boundary-of-binary-tree/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Boundary Traversal of Binary Tree\nSource: https://www.geeksforgeeks.org/boundary-of-binary-tree/\n\nDescription: Provide an implementation for 'Boundary Traversal of Binary Tree'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "BST",
+    "title": "Construct BST from Given Keys",
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+    "difficulty": "EASY",
+    "statement": "Problem: Construct BST from Given Keys\nSource: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/\n\nDescription: Provide an implementation for 'Construct BST from Given Keys'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "BST",
+    "title": "Construct BST from Preorder Traversal",
+    "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Construct BST from Preorder Traversal\nSource: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/\n\nDescription: Provide an implementation for 'Construct BST from Preorder Traversal'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "BST",
+    "title": "Check if a BT is BST or not",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Check if a BT is BST or not\nSource: https://leetcode.com/problems/validate-binary-search-tree/\n\nDescription: Provide an implementation for 'Check if a BT is BST or not'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "BST",
+    "title": "Find K-th Smallest Element in BST",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Find K-th Smallest Element in BST\nSource: https://leetcode.com/problems/kth-smallest-element-in-a-bst/\n\nDescription: Provide an implementation for 'Find K-th Smallest Element in BST'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Binary Tree Misc",
+    "title": "Distinct Numbers in Window",
+    "url": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Distinct Numbers in Window\nSource: https://www.interviewbit.com/problems/distinct-numbers-in-window/\n\nDescription: Provide an implementation for 'Distinct Numbers in Window'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Detect Cycle in Undirected Graph using BFS",
+    "url": "https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-graph-using-bfs/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Detect Cycle in Undirected Graph using BFS\nSource: https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-graph-using-bfs/\n\nDescription: Provide an implementation for 'Detect Cycle in Undirected Graph using BFS'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Detect Cycle in Undirected Graph using DFS",
+    "url": "https://www.geeksforgeeks.org/detect-cycle-undirected-graph/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Detect Cycle in Undirected Graph using DFS\nSource: https://www.geeksforgeeks.org/detect-cycle-undirected-graph/\n\nDescription: Provide an implementation for 'Detect Cycle in Undirected Graph using DFS'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Detect Cycle in Directed Graph using DFS",
+    "url": "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Detect Cycle in Directed Graph using DFS\nSource: https://www.geeksforgeeks.org/detect-cycle-in-a-graph/\n\nDescription: Provide an implementation for 'Detect Cycle in Directed Graph using DFS'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Detect Cycle in Directed Graph using BFS (Kahn's Algorithm)",
+    "url": "https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Detect Cycle in Directed Graph using BFS (Kahn's Algorithm)\nSource: https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/\n\nDescription: Provide an implementation for 'Detect Cycle in Directed Graph using BFS (Kahn's Algorithm)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Topological Sort BFS (Kahn's)",
+    "url": "https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Topological Sort BFS (Kahn's)\nSource: https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/\n\nDescription: Provide an implementation for 'Topological Sort BFS (Kahn's)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Topological Sort DFS",
+    "url": "https://www.geeksforgeeks.org/topological-sorting/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Topological Sort DFS\nSource: https://www.geeksforgeeks.org/topological-sorting/\n\nDescription: Provide an implementation for 'Topological Sort DFS'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Number of Islands",
+    "url": "https://leetcode.com/problems/number-of-islands/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Number of Islands\nSource: https://leetcode.com/problems/number-of-islands/\n\nDescription: Provide an implementation for 'Number of Islands'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Bipartite Check using BFS",
+    "url": "https://leetcode.com/problems/is-graph-bipartite/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Bipartite Check using BFS\nSource: https://leetcode.com/problems/is-graph-bipartite/\n\nDescription: Provide an implementation for 'Bipartite Check using BFS'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graph",
+    "title": "Bipartite Check using DFS",
+    "url": "https://leetcode.com/problems/is-graph-bipartite/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Bipartite Check using DFS\nSource: https://leetcode.com/problems/is-graph-bipartite/\n\nDescription: Provide an implementation for 'Bipartite Check using DFS'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "Max Product Subarray",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Max Product Subarray\nSource: https://leetcode.com/problems/maximum-product-subarray/\n\nDescription: Provide an implementation for 'Max Product Subarray'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "Longest Increasing Subsequence",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Longest Increasing Subsequence\nSource: https://leetcode.com/problems/longest-increasing-subsequence/\n\nDescription: Provide an implementation for 'Longest Increasing Subsequence'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "Longest Common Subsequence",
+    "url": "https://leetcode.com/problems/longest-common-subsequence/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Longest Common Subsequence\nSource: https://leetcode.com/problems/longest-common-subsequence/\n\nDescription: Provide an implementation for 'Longest Common Subsequence'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "0-1 Knapsack",
+    "url": "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: 0-1 Knapsack\nSource: https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/\n\nDescription: Provide an implementation for '0-1 Knapsack'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "Minimum Sum Path in the Matrix",
+    "url": "https://leetcode.com/problems/minimum-path-sum/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Minimum Sum Path in the Matrix\nSource: https://leetcode.com/problems/minimum-path-sum/\n\nDescription: Provide an implementation for 'Minimum Sum Path in the Matrix'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "Coin Change",
+    "url": "https://leetcode.com/problems/coin-change/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Coin Change\nSource: https://leetcode.com/problems/coin-change/\n\nDescription: Provide an implementation for 'Coin Change'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "Subset Sum",
+    "url": "https://www.geeksforgeeks.org/subset-sum-problem-dp-25/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Subset Sum\nSource: https://www.geeksforgeeks.org/subset-sum-problem-dp-25/\n\nDescription: Provide an implementation for 'Subset Sum'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Trie",
+    "title": "Implement Trie (Prefix Tree)",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Implement Trie (Prefix Tree)\nSource: https://leetcode.com/problems/implement-trie-prefix-tree/\n\nDescription: Provide an implementation for 'Implement Trie (Prefix Tree)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Trie",
+    "title": "Implement Trie - 2",
+    "url": "https://www.codingninjas.com/codestudio/problems/implement-trie_1387095",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Implement Trie - 2\nSource: https://www.codingninjas.com/codestudio/problems/implement-trie_1387095\n\nDescription: Provide an implementation for 'Implement Trie - 2'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Trie",
+    "title": "Power Set (Print all subsequences)",
+    "url": "https://www.geeksforgeeks.org/power-set/",
+    "difficulty": "MEDIUM",
+    "statement": "Problem: Power Set (Print all subsequences)\nSource: https://www.geeksforgeeks.org/power-set/\n\nDescription: Provide an implementation for 'Power Set (Print all subsequences)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  }
+]

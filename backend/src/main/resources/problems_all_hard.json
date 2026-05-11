@@ -1,0 +1,74 @@
+[
+  {
+    "topic": "Arrays",
+    "title": "Subarray with Given Sum (positive numbers) - multiple techniques",
+    "url": "https://www.geeksforgeeks.org/find-subarray-with-given-sum/",
+    "difficulty": "HARD",
+    "statement": "Problem: Subarray with Given Sum (positive numbers) - multiple techniques\nSource: https://www.geeksforgeeks.org/find-subarray-with-given-sum/\n\nDescription: Provide an implementation for 'Subarray with Given Sum (positive numbers) - multiple techniques'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Trapping Rain Water",
+    "url": "https://leetcode.com/problems/trapping-rain-water/",
+    "difficulty": "HARD",
+    "statement": "Problem: Trapping Rain Water\nSource: https://leetcode.com/problems/trapping-rain-water/\n\nDescription: Provide an implementation for 'Trapping Rain Water'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Arrays",
+    "title": "Largest Rectangle in Histogram",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "difficulty": "HARD",
+    "statement": "Problem: Largest Rectangle in Histogram\nSource: https://leetcode.com/problems/largest-rectangle-in-histogram/\n\nDescription: Provide an implementation for 'Largest Rectangle in Histogram'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Backtracking",
+    "title": "N-Queens Problem",
+    "url": "https://leetcode.com/problems/n-queens/",
+    "difficulty": "HARD",
+    "statement": "Problem: N-Queens Problem\nSource: https://leetcode.com/problems/n-queens/\n\nDescription: Provide an implementation for 'N-Queens Problem'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graphs",
+    "title": "Word Ladder II",
+    "url": "https://leetcode.com/problems/word-ladder-ii/",
+    "difficulty": "HARD",
+    "statement": "Problem: Word Ladder II\nSource: https://leetcode.com/problems/word-ladder-ii/\n\nDescription: Provide an implementation for 'Word Ladder II'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Graphs",
+    "title": "Critical Connections in a Network (Tarjan's)",
+    "url": "https://leetcode.com/problems/critical-connections-in-a-network/",
+    "difficulty": "HARD",
+    "statement": "Problem: Critical Connections in a Network (Tarjan's)\nSource: https://leetcode.com/problems/critical-connections-in-a-network/\n\nDescription: Provide an implementation for 'Critical Connections in a Network (Tarjan's)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "Word Break II",
+    "url": "https://leetcode.com/problems/word-break-ii/",
+    "difficulty": "HARD",
+    "statement": "Problem: Word Break II\nSource: https://leetcode.com/problems/word-break-ii/\n\nDescription: Provide an implementation for 'Word Break II'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "DP",
+    "title": "Matrix Chain Multiplication",
+    "url": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
+    "difficulty": "HARD",
+    "statement": "Problem: Matrix Chain Multiplication\nSource: https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/\n\nDescription: Provide an implementation for 'Matrix Chain Multiplication'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  },
+  {
+    "topic": "Advanced",
+    "title": "Merge k Sorted Lists (Optimized)",
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "difficulty": "HARD",
+    "statement": "Problem: Merge k Sorted Lists (Optimized)\nSource: https://leetcode.com/problems/merge-k-sorted-lists/\n\nDescription: Provide an implementation for 'Merge k Sorted Lists (Optimized)'. Refer to the source URL for full details, constraints, and sample IO.\n",
+    "samples": []
+  }
+]

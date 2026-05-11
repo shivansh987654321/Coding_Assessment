@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Add Two Numbers",
+    "description": "You are given two non-empty linked lists representing two non-negative integers.",
+    "difficulty": "MEDIUM",
+    "constraintsText": "The number of nodes is in the range [1, 100].",
+    "examples": "Input: (2 -> 4 -> 3) + (5 -> 6 -> 4) -> Output: 7 -> 0 -> 8",
+    "starterCode": "// starter code for Add Two Numbers",
+    "tags": ["linked-list", "math"]
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "description": "Given a string s, find the length of the longest substring without repeating characters.",
+    "difficulty": "MEDIUM",
+    "constraintsText": "0 <= s.length <= 5 * 10^4",
+    "examples": "Input: 'abcabcbb' -> 3",
+    "starterCode": "// starter code for substring problem",
+    "tags": ["string", "sliding-window"]
+  }
+]
